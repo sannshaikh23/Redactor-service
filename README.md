@@ -87,4 +87,4 @@ The service follows an object-oriented design:
 - *Strategy* → defines redaction method (blur/fill)  
 - *Filter* → applies the selected redaction  
 - *Controller* → API endpoints  
-  ![UML Diagram](UML diagram.jpg)
+  ![UML Diagram](https://github.com/sannshaikh23/Redactor-service/blob/main/UML%20diagram.jpg)
